@@ -38,7 +38,7 @@
 - Sort
   - [ヘッダファイル](https://github.com/soukenki/Algorithm/blob/main/Sort/Sort.h)
   - [具体的に実現し](https://github.com/soukenki/Algorithm/blob/main/Sort/Sort.c)
-  - [テスト](https://github.com/soukenki/Algorithm/blob/main/Sort/test.c)
+  - [テスト](https://github.com/soukenki/Algorithm/blob/main/Sort/Test.c)
  
 
 ## Algorithm Realization Based on C++
